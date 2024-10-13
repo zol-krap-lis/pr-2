@@ -23,7 +23,8 @@
 
 ```bash
 pip install requests networkx matplotlib
+```
 
 ## Пример
-![Пример](images/Снимок экрана 2024-10-13 223724.png)
+![Пример](images/screenshot.png)
 
