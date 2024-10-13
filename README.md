@@ -1,6 +1,6 @@
 ## Практика #2 Золотов А.А. Лисин С.В. Крапивин Я.С. (БСМО-11-24) 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zol-krap-lis/pr-2/blob/main/main.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zol-krap-lis/pr-2/blob/main/main.ipynb)
 
 # VK Friends Centrality Graph
 
